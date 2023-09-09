@@ -1,5 +1,5 @@
-      Hi,I am Kritika Agrawal! 
-      Glad to see you here !! 👋
+                                         Hi,I am Kritika Agrawal! 
+                                         Glad to see you here !! 👋
 
 <!---
 Kritika23083/Kritika23083 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
